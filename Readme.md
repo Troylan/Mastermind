@@ -19,12 +19,13 @@ You will be immediately directed to the main menu. It should display your
 record, the available commands, and the status of cheatmode.
 
 From the main menu you may enter the following commands:
+
 		- Enter: play -> Select mode
 		- q: quit
 		- h: help
 		- o: options
 From the options menu, you may enter the following commands:
-	Options Menu Commands:
+ 
 		- r: reset record
 		- g: change guess count
 		- c: toggle cheat mode
@@ -41,6 +42,7 @@ The objective of the game as the codebreaker is to guess correctly the code
 	Eg: [Red][Red][Yel][Ora]
 	
 The available colours are as follows: 
+
 	- Yellow
     - Orange 
     - Red
@@ -85,9 +87,11 @@ let j represents the number of times the colour appears on the guess
 Notes
 
 November 26, 2011
+
 	- Codemaker mode added.
 	- Mode can be selected after pressing enter at the main menu.
 November 24, 2011
+
 	- Program is fully operational
 	Main Menu Commands:
 		- Enter: play

@@ -7,8 +7,7 @@ Mastermind
   - Description: A programmed version of the mastermind board game created in Java.
 
 
-A detailed description of the game can be found here:
-http://en.wikipedia.org/wiki/Mastermind_(board_game)
+A detailed description of the game can be found [here](http://en.wikipedia.org/wiki/Mastermind):
 
 Instructions
 -----

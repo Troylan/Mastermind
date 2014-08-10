@@ -84,6 +84,7 @@ let j represents the number of times the colour appears on the guess
 	total keys = min(n1, j1) + min(n2, j2) + min(n3, j3) ... + min(n6, j6)
 
 Notes
+---
 
 November 26, 2011
 
